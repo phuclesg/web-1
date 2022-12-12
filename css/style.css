@@ -564,6 +564,9 @@ body {
         height: 25px;
         font-size: 12px;
     }
+    .section-7-form input {
+        margin-bottom: 10px;
+    }
 }
 /* phone */
 @media screen and (max-width:570px){
