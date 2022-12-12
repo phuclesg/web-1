@@ -623,4 +623,10 @@ body {
     .top-3 {
        display: none;
     }
+    .line-top-1 {
+        display: none;
+    }
+    .line-top-2 {
+        display: none;
+    }
 }
